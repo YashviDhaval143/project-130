@@ -1,0 +1,24 @@
+.heading 
+{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 18px;
+    color: rgb(16, 11, 9);
+}
+body
+{
+    background-size: cover;
+
+}
+
+
+canvas
+{
+    border: 10px solid black;
+    border-radius: 18px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
